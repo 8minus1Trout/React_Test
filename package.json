@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "react_test",
   "private": true,
   "version": "0.0.0",
